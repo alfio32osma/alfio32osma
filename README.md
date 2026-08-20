@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github.gif" width="100%" />
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*IRGB-4OAoO8KSqH_huDPFw.gif" width="100%" />
   
   <h1> Alfio Osma </h1>
   <p><i> Dreams only come true if you chase them.</i></p>
