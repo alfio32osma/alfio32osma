@@ -2,19 +2,19 @@
   <img src="github.gif" width="100%" />
   
   <h1> Alfio Osma </h1>
-  <p><i> Los sueños se cumplen sólo si se persiguien.</i></p>
+  <p><i> Dreams only come true if you chase them.</i></p>
 </div>
 <hr />
 
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3> 🔭 Sobre mí </h3>
+      <h3> 🔭 About Me </h3>
       <ul>
-        <li>Actualmente estoy cursando la primera promoción del Bootcamp de 4GeeksAcademy</li>
-        <li>Aprendiendo activamente: HTML5, CSS, GIT HUB, JAVASCRIPT & PYTHON.</li>
-        <li>Abierto a nuevos proyectos</li>
-        <li>Dato curioso: Actualmente estoy desarrollando un bot de trading algoritmico para detectar oportunidades de compra en Bitcoin</li>
+        <li>Python Developer & CS50 student focused on Quantitative Finance.</li>
+        <li>Actively working with Python, Git, APIs, and testing principles.</li>
+        <li>Open to new software development opportunities and challenges.</li>
+        <li>Fun fact: Currently building an algorithmic trading bot to detect buying opportunities in Bitcoin.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -28,9 +28,9 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3> 🔭 Mi Trayectoria y Enfoque </h3>
-      <p>Tras años gestionando operativamente <b>"La Frontera Playa"</b> en Málaga, donde aprendí la importancia de la eficiencia, el trato al cliente y el trabajo bajo alta presión, decidí formalizar mi perfil analítico con un <b>Grado Superior en Administración y Finanzas</b>. </p>
-      <p>Actualmente, aplico esta visión global de negocio y gestión de recursos al desarrollo de software, buscando crear soluciones tecnológicas que resuelvan problemas reales de gestión.</p>
+      <h3> 🔭 Background & Focus </h3>
+      <p>After years managing operations at <b>"La Frontera Playa"</b> in Málaga—where I learned efficiency, client service, and high-pressure decision-making—I decided to formalize my analytical background with a <b>Higher Degree in Finance and Administration</b>. </p>
+      <p>Today, I apply this global business and resource management mindset to software development, aiming to build robust technological solutions that solve real-world problems.</p>
     </td>
     <td width="40%" align="center">
        <img src="https://www.cesurformacion.com/wp-content/uploads/2025/10/535-notas-de-corte-grado-superior-murcia-graduacion.webp" width="250" style="border-radius: 10px;"/>
@@ -41,8 +41,8 @@
 <hr />
 
 <div align="center">
-  <h3>📊 Aptitudes Directivas y de Gestión</h3>
-  <p>Habilidades transversales adquiridas como Gerente/Director en <i>La Frontera Playa (Málaga)</i>.</p>
+  <h3>📊 Management & Leadership Skills</h3>
+  <p>Transferable skills acquired as Manager/Director at <i>La Frontera Playa (Málaga)</i>.</p>
 
   <table width="90%">
     <tr>
@@ -52,10 +52,10 @@
       </td>
       <td width="80%">
         <ul>
-          <li><strong>Liderazgo y Gestión de Equipos:</strong> Dirección de personal en entornos de alta exigencia y estacionalidad.</li>
-          <li><strong>Optimización Operativa:</strong> Mejora de procesos de servicio y logística de suministros.</li>
-          <li><strong>Resolución de Problemas en Tiempo Real:</strong> Toma de decisiones críticas durante picos de actividad.</li>
-          <li><strong>Atención al Cliente y Negociación:</strong> Gestión de expectativas y relaciones con proveedores.</li>
+          <li><strong>Team Leadership:</strong> Personnel management in high-demand, seasonal environments.</li>
+          <li><strong>Operational Optimization:</strong> Process improvement in service and supply chain logistics.</li>
+          <li><strong>Real-Time Problem Solving:</strong> Critical decision-making during peak activity spikes.</li>
+          <li><strong>Client Relations & Negotiation:</strong> Stakeholder management and vendor relations.</li>
         </ul>
       </td>
     </tr>
@@ -65,24 +65,24 @@
 <hr />
 
 <div align="center">
-  <h3>🎓 Formación Académica</h3>
+  <h3>🎓 Academic Background</h3>
   
-  <img src="https://img.shields.io/badge/Grado%20Superior-Administración%20y%20Finanzas-blue?style=for-the-badge&logo=trello&logoColor=white" alt="Administración y Finanzas Badge" />
+  <img src="https://img.shields.io/badge/Higher%20Degree-Finance%20%26%20Administration-blue?style=for-the-badge&logo=trello&logoColor=white" alt="Finance and Administration Badge" />
   
-  <p>Competencias en gestión contable, fiscal, financiera y logística.</p>
+  <p>Competencies in accounting, fiscal management, corporate finance, and logistics.</p>
 </div>
 
 <div align="right">
-  <sub>Última actualización: 25 de marzo de 2026</sub>
+  <sub>Last updated: August 2026</sub>
 </div>
 <hr />
 
 <div align="center">
-  <h3>📫 Hablemos</h3>
+  <h3>📫 Let's Connect</h3>
   <a href="https://www.linkedin.com/in/alfio32osma/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mail.google.com" target="_blank">
+  <a href="mailto:alfio32osma@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -90,5 +90,5 @@
 <br />
 
 <div align="right">
-  <sub>Última actualización: 25 de marzo de 2026</sub>
+  <sub>Last updated: August 2026</sub>
 </div>
