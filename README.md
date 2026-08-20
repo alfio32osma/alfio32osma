@@ -69,7 +69,7 @@
   <hr />
   <div align="center">
     <h3>🏆 Certifications</h3>
-    <a href="TU_ENLACE_AL_CERTIFICADO_AQUI" target="_blank">
+    <a href="https://github.com/alfio32osma/alfio32osma/blob/main/CS50P-CERTIFICATE.pdf" target="_blank">
       <img src="https://img.shields.io/badge/CS50P-Harvard%20University-red?style=for-the-badge&logo=harvard&logoColor=white" />
     </a>
     <p><i>CS50's Introduction to Programming with Python</i></p>
