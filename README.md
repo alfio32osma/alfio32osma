@@ -66,7 +66,14 @@
 
 <div align="center">
   <h3>🎓 Academic Background</h3>
-  
+  <hr />
+  <div align="center">
+    <h3>🏆 Certifications</h3>
+    <a href="TU_ENLACE_AL_CERTIFICADO_AQUI" target="_blank">
+      <img src="https://img.shields.io/badge/CS50P-Harvard%20University-red?style=for-the-badge&logo=harvard&logoColor=white" />
+    </a>
+    <p><i>CS50's Introduction to Programming with Python</i></p>
+  </div>
   <img src="https://img.shields.io/badge/Higher%20Degree-Finance%20%26%20Administration-blue?style=for-the-badge&logo=trello&logoColor=white" alt="Finance and Administration Badge" />
   
   <p>Competencies in accounting, fiscal management, corporate finance, and logistics.</p>
