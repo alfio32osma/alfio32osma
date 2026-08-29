@@ -13,7 +13,7 @@
 *"The stock market is a device for transferring money from the impatient to the patient." — Benjamin Graham*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfio32osma/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alfio32osma@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alfio32osma@gmail.com)
 [![CS50P](https://img.shields.io/badge/CS50P-Harvard_University-A51C30?style=flat-square&logoColor=white)](https://github.com/alfio32osma/alfio32osma/blob/main/CS50P-CERTIFICATE.pdf)
 
 </div>
