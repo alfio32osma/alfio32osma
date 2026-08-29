@@ -1,101 +1,101 @@
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*IRGB-4OAoO8KSqH_huDPFw.gif" width="100%" />
-  
-  <h1> Alfio Osma </h1>
-  <p><i> Dreams only come true if you chase them.</i></p>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  BTC/USDT  |  ADX: 32.4  |  ATR: 1,240  |  POS: LONG   ║
+║  Entry: 61,240  |  SL: 59,890  |  Status: ██████ LIVE  ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+# Alfio Osma
+### Python Developer · Quantitative Finance · Algorithmic Trading
+
+*"The stock market is a device for transferring money from the impatient to the patient." — Benjamin Graham*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfio32osma/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alfio32osma@gmail.com)
+[![CS50P](https://img.shields.io/badge/CS50P-Harvard_University-A51C30?style=flat-square&logoColor=white)](https://github.com/alfio32osma/alfio32osma/blob/main/CS50P-CERTIFICATE.pdf)
+
 </div>
-<hr />
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3> 🔭 About Me </h3>
-      <ul>
-        <li>Python Developer & CS50 student focused on Quantitative Finance.</li>
-        <li>Actively working with Python, Git, APIs, and testing principles.</li>
-        <li>Open to new software development opportunities and challenges.</li>
-        <li>Fun fact: Currently building an algorithmic trading bot to detect buying opportunities in Bitcoin.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="IAGIF.gif" width="300" />
-    </td>
-  </tr>
-</table>
+---
 
-<hr />
+## What I build
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3> 🔭 Background & Focus </h3>
-      <p>After years managing operations at <b>"La Frontera Playa"</b> in Málaga—where I learned efficiency, client service, and high-pressure decision-making—I decided to formalize my analytical background with a <b>Higher Degree in Finance and Administration</b>. </p>
-      <p>Today, I apply this global business and resource management mindset to software development, aiming to build robust technological solutions that solve real-world problems.</p>
-    </td>
-    <td width="40%" align="center">
-       <img src="https://www.cesurformacion.com/wp-content/uploads/2025/10/535-notas-de-corte-grado-superior-murcia-graduacion.webp" width="250" style="border-radius: 10px;"/>
-    </td>
-  </tr>
-</table>
+I develop **quantitative tools and algorithmic trading systems** that combine financial theory with Python. My focus is on systematic approaches to markets — not guesswork, but models grounded in data.
 
-<hr />
+Currently working on two projects simultaneously:
+
+**[▶ BTC/USDT Algorithmic Trading Bot](https://github.com/alfio32osma/backtest-btc-trading-bot)** — Live on Hyperliquid. Modular architecture with signal generation (ADX + ATR), dynamic stop loss, kill switch, and smart API caching. Backtesting engine fully refactored and published.
+
+**[▶ Graham Intrinsic Value Calculator](https://github.com/alfio32osma/graham-financial-analysis)** — CS50P final project. Fetches real-time AAA corporate bond data from the Federal Reserve (FRED API) to compute intrinsic value using a modernised Graham formula. Includes pytest suite with API mocking.
+
+---
+
+## Stack
+
+```python
+languages  = ["Python", "C"]          # C via 42 Málaga network
+tools      = ["Git", "pytest", "requests", "Pandas"]
+markets    = ["Crypto perpetual futures", "Equity valuation", "DeFi / AMM"]
+methods    = ["Algorithmic trading", "Backtesting", "Value investing"]
+learning   = ["Quantitative finance", "Statistical methods", "NumPy"]
+```
+
+---
+
+## Background
+
+I come from an unusual combination: **9 years running a hospitality business** (La Frontera Playa, Málaga) with annual revenue tracked, accounted, and declared — including a peak month of €200k — while independently studying financial theory, value investing, and eventually, code.
+
+That means I bring something most junior developers don't: I understand **why** the numbers matter, not just how to compute them.
+
+Formal credentials:
+- 📜 **CS50P** — Harvard University (completed, certificate published)
+- 📜 **42 Málaga** — La Piscine (passed selection, C programming)
+- 📜 **Higher Degree — Business Administration & Finance** · GPA 8.08/10
+- 📜 Work placement at **Reding Auditores S.L.** (auditing & consultancy) · Letter of commendation
+
+---
+
+## How I work
+
+I use AI as a precision tool — not to generate code blindly, but to iterate faster on architecture decisions, edge case handling, and test coverage. Every module I ship, I can explain line by line. The refactoring and modularisation process is how I internalise what the system is doing.
+
+This is the workflow I apply to every project:
+
+```
+Define the problem clearly →
+Design the architecture →
+Implement with AI assistance →
+Refactor for readability →
+Write pytest coverage →
+Fix bugs against real market data →
+Document for the next person
+```
+
+---
+
+## What I'm looking for
+
+My passion and long-term goal is to work at the intersection of **quantitative finance and code** — systematic trading, financial data analysis, or quant development in a high-level environment (Switzerland, major financial hubs). That's the direction I'm building toward.
+
+At the same time, I'm realistic about where I am in the journey. I'm actively open to **junior software development roles** — in Python, backend, or data — that put me inside a high-quality engineering environment where I can grow fast, contribute from day one, and keep moving toward that objective.
+
+What matters to me in a first role: technical rigour, a team I can learn from, and work that has real-world impact. The sector is secondary to the quality of the environment.
+
+Not looking for general web development or roles disconnected from data, systems, or financial logic.
+
+Open to remote or relocation — Switzerland, Ireland, or other European hubs.
+
+---
 
 <div align="center">
-  <h3>📊 Management & Leadership Skills</h3>
-  <p>Transferable skills acquired as Manager/Director at <i>La Frontera Playa (Málaga)</i>.</p>
 
-  <table width="90%">
-    <tr>
-      <td width="20%" align="center" valign="middle">
-        <img src="lafronteralogo.jpg" alt="Logo La Frontera Playa" width="120" style="border-radius: 50%; border: 2px solid #ddd;"/>
-        <br><b>La Frontera Playa</b>
-      </td>
-      <td width="80%">
-        <ul>
-          <li><strong>Team Leadership:</strong> Personnel management in high-demand, seasonal environments.</li>
-          <li><strong>Operational Optimization:</strong> Process improvement in service and supply chain logistics.</li>
-          <li><strong>Real-Time Problem Solving:</strong> Critical decision-making during peak activity spikes.</li>
-          <li><strong>Client Relations & Negotiation:</strong> Stakeholder management and vendor relations.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+*Open to opportunities · Málaga, Spain · Open to relocation Switzerland | Ireland*
 
-<hr />
+**[LinkedIn](https://www.linkedin.com/in/alfio32osma/) · <a href="mailto:alfio32osma@gmail.com">alfio32osma@gmail.com</a>**
 
-<div align="center">
-  <h3>🎓 Academic Background</h3>
-  <hr />
-  <div align="center">
-    <h3>🏆 Certifications</h3>
-    <a href="https://github.com/alfio32osma/alfio32osma/blob/main/CS50P-CERTIFICATE.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/CS50P-Harvard%20University-red?style=for-the-badge&logo=harvard&logoColor=white" />
-    </a>
-    <p><i>CS50's Introduction to Programming with Python</i></p>
-  </div>
-  <img src="https://img.shields.io/badge/Higher%20Degree-Finance%20%26%20Administration-blue?style=for-the-badge&logo=trello&logoColor=white" alt="Finance and Administration Badge" />
-  
-  <p>Competencies in accounting, fiscal management, corporate finance, and logistics.</p>
-</div>
+<sub>Last updated: August 2026</sub>
 
-<div align="right">
-  <sub>Last updated: August 2026</sub>
-</div>
-<hr />
-
-<div align="center">
-  <h3>📫 Let's Connect</h3>
-  <a href="https://www.linkedin.com/in/alfio32osma/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:alfio32osma@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br />
-
-<div align="right">
-  <sub>Last updated: August 2026</sub>
 </div>
