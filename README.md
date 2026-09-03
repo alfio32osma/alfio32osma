@@ -14,6 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfio32osma/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alfio32osma@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Pandas_Certified-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://github.com/alfio32osma/alfio32osma/blob/main/kaggle-pandas-certificate.png)
 [![CS50P](https://img.shields.io/badge/CS50P-Harvard_University-A51C30?style=flat-square&logoColor=white)](https://github.com/alfio32osma/alfio32osma/blob/main/CS50P-CERTIFICATE.pdf)
 
 </div>
@@ -41,7 +42,13 @@ markets    = ["Crypto perpetual futures", "Equity valuation", "DeFi / AMM"]
 methods    = ["Algorithmic trading", "Backtesting", "Value investing"]
 learning   = ["Quantitative finance", "Statistical methods", "NumPy"]
 ```
+---
 
+## Certifications
+
+<img src="kaggle-pandas-certificate.png" alt="Kaggle Pandas Certificate of Completion" width="600"/>
+
+---
 ---
 
 ## Background
@@ -53,6 +60,7 @@ That means I bring something most junior developers don't: I understand **why** 
 Formal credentials:
 - 📜 **CS50P** — Harvard University (completed, certificate published)
 - 📜 **42 Málaga** — La Piscine (passed selection, C programming)
+- 📜 **Kaggle — Pandas** — Certificate of Completion (Sept 2026)
 - 📜 **Higher Degree — Business Administration & Finance** · GPA 8.08/10
 - 📜 Work placement at **Reding Auditores S.L.** (auditing & consultancy) · Letter of commendation
 
