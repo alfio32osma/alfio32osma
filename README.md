@@ -46,7 +46,8 @@ learning   = ["Quantitative finance", "Statistical methods", "NumPy"]
 
 ## Certifications
 
-<img src="kaggle-pandas-certificate.png" alt="Kaggle Pandas Certificate of Completion" width="600"/>
+<img src="kaggle_pandas_certificate.png" alt="Kaggle Pandas | Certificate of Completion" width="600"/>
+<img src="harvard_cs50p_certificate.pdf" alt="Harvard CS50P | Certificate of Completion" width="600"/>
 
 ---
 ---
